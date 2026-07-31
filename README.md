@@ -25,3 +25,11 @@ El agente utiliza **Pandas**, **Regex**, **Pydantic** y **Streamlit** para proce
    ```bash
    git clone https://github.com/tuusuario/agente-gym.git
    cd agente-gym
+
+
+---
+
+## ✅ Conclusión
+Con este `README.md` enriquecido con **capturas y logos**, tu repositorio en GitHub será mucho más atractivo y profesional.  
+
+👉 ¿Quieres que te prepare también un **ejemplo de gráfico en Streamlit (barras o pastel)** para mostrar la distribución del tiempo por grupo muscular y añadirlo como captura en tu README?
