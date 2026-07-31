@@ -1,0 +1,66 @@
+id,nombre,zona,grupo_muscular,nivel,equipamiento,duracion_serie_min,series_sugeridas,reps_sugeridas,descanso_seg,contraindicaciones
+E001,Sentadilla con barra,piernas,cuadriceps,intermedio,completo,2,4,8-10,90,rodilla
+E002,Prensa de piernas,piernas,cuadriceps,principiante,completo,2,4,10-12,75,rodilla
+E003,Peso muerto rumano,piernas,femoral,intermedio,completo,2,4,8-10,90,espalda_baja
+E004,Zancadas con mancuernas,piernas,gluteos,principiante,basico,2,3,10-12,60,rodilla
+E005,Curl femoral máquina,piernas,femoral,principiante,completo,2,3,12-15,60,ninguna
+E006,Elevación de gemelos de pie,piernas,gemelos,principiante,completo,1,4,15-20,45,ninguna
+E007,Sentadilla hack,piernas,cuadriceps,intermedio,completo,2,4,8-10,90,rodilla
+E008,Leg press inclinado,piernas,cuadriceps,principiante,completo,2,4,10-12,75,rodilla
+E009,Extensión de cuadriceps,piernas,cuadriceps,principiante,completo,2,3,12-15,60,rodilla
+E010,Peso muerto pierna recta,piernas,femoral,intermedio,completo,2,4,8-10,90,espalda_baja
+E011,Abductores máquina,piernas,abductores,principiante,completo,1,3,15-20,45,ninguna
+E012,Aductores máquina,piernas,aductores,principiante,completo,1,3,15-20,45,ninguna
+E013,Sentadilla búlgara,piernas,gluteos,avanzado,basico,2,4,8-10,90,rodilla
+E014,Hip thrust con barra,piernas,gluteos,intermedio,completo,2,4,10-12,75,espalda_baja
+E015,Step up con mancuernas,piernas,gluteos,principiante,basico,2,3,12-15,60,rodilla
+E016,Jalones al pecho,espalda,dorsal,principiante,completo,2,3,10-12,60,ninguna
+E017,Remo con barra,espalda,dorsal,intermedio,completo,2,4,8-10,90,espalda_baja
+E018,Remo en polea baja,espalda,romboides,principiante,completo,2,3,10-12,60,ninguna
+E019,Dominadas,espalda,dorsal,avanzado,basico,2,4,6-10,90,hombro
+E020,Remo con mancuerna,espalda,dorsal,principiante,basico,2,3,10-12,60,espalda_baja
+E021,Pull-over con mancuerna,espalda,dorsal,intermedio,basico,2,3,12-15,60,hombro
+E022,Remo en máquina,espalda,dorsal,principiante,completo,2,3,12-15,60,ninguna
+E023,Encogimientos de hombros,espalda,trapecio,principiante,basico,1,3,15-20,45,ninguna
+E024,Hiperextensiones,espalda,lumbar,principiante,completo,2,3,15-20,45,espalda_baja
+E025,Curl con barra,biceps,biceps,principiante,basico,2,3,10-12,60,ninguna
+E026,Curl con mancuernas alterno,biceps,biceps,principiante,basico,2,3,10-12,60,ninguna
+E027,Curl martillo,biceps,biceps,principiante,basico,2,3,12-15,60,ninguna
+E028,Curl en polea baja,biceps,biceps,principiante,completo,1,3,12-15,45,ninguna
+E029,Press de banca plano,pecho,pectoral,intermedio,completo,2,4,8-10,90,hombro
+E030,Press de banca inclinado,pecho,pectoral,intermedio,completo,2,4,8-10,90,hombro
+E031,Aperturas con mancuernas,pecho,pectoral,principiante,basico,2,3,12-15,60,hombro
+E032,Fondos en paralelas,pecho,triceps,intermedio,basico,2,4,8-10,90,hombro
+E033,Press en máquina pecho,pecho,pectoral,principiante,completo,2,3,12-15,60,ninguna
+E034,Cruce de poleas,pecho,pectoral,principiante,completo,2,3,15-20,45,hombro
+E035,Flexiones de brazos,pecho,pectoral,principiante,ninguno,2,3,max,60,hombro
+E036,Extensión de tríceps polea,triceps,triceps,principiante,completo,2,3,12-15,60,ninguna
+E037,Press francés,triceps,triceps,intermedio,basico,2,4,8-10,75,codo
+E038,Patada de tríceps,triceps,triceps,principiante,basico,1,3,15-20,45,ninguna
+E039,Fondos en banco,triceps,triceps,principiante,ninguno,2,3,15-20,60,hombro
+E040,Press militar con barra,hombros,deltoides,intermedio,completo,2,4,8-10,90,hombro
+E041,Press de hombros mancuernas,hombros,deltoides,principiante,basico,2,3,10-12,75,hombro
+E042,Elevaciones laterales,hombros,deltoides,principiante,basico,1,3,15-20,45,ninguna
+E043,Elevaciones frontales,hombros,deltoides,principiante,basico,1,3,15-20,45,hombro
+E044,Pájaros con mancuernas,hombros,deltoides,principiante,basico,1,3,15-20,45,ninguna
+E045,Face pulls polea,hombros,deltoides,principiante,completo,1,3,15-20,45,ninguna
+E046,Arnold press,hombros,deltoides,intermedio,basico,2,3,10-12,75,hombro
+E047,Plancha abdominal,core,core,principiante,ninguno,1,4,45s,45,espalda_baja
+E048,Crunch abdominal,core,core,principiante,ninguno,1,3,20-25,45,espalda_baja
+E049,Rueda abdominal,core,core,intermedio,basico,1,3,12-15,60,espalda_baja
+E050,Mountain climbers,core,core,principiante,ninguno,1,3,30s,45,hombro
+E051,Russian twist,core,core,principiante,ninguno,1,3,20-25,45,espalda_baja
+E052,Elevación de piernas tumbado,core,core,principiante,ninguno,1,3,15-20,45,espalda_baja
+E053,Plancha lateral,core,core,intermedio,ninguno,1,3,30s,45,hombro
+E054,Bicicleta abdominal,core,core,principiante,ninguno,1,3,30s,45,ninguna
+E055,Burpees,cardio,full_body,intermedio,ninguno,2,3,10-15,90,rodilla
+E056,Saltos al cajón,cardio,piernas,intermedio,completo,1,3,8-10,90,rodilla
+E057,Saltar la cuerda,cardio,full_body,principiante,basico,2,3,60s,60,rodilla
+E058,Sentadilla con salto,cardio,piernas,intermedio,ninguno,1,3,10-15,75,rodilla
+E059,Peso muerto convencional,espalda,lumbar,avanzado,completo,2,4,5-8,120,espalda_baja
+E060,Curl de concentración,biceps,biceps,principiante,basico,1,3,12-15,45,ninguna
+E061,Press de banca agarre cerrado,triceps,triceps,intermedio,completo,2,4,8-10,90,codo
+E062,Sentadilla goblet,piernas,cuadriceps,principiante,basico,2,3,12-15,60,rodilla
+E063,Peso muerto sumo,piernas,gluteos,intermedio,completo,2,4,8-10,90,rodilla
+E064,Glute bridge,piernas,gluteos,principiante,ninguno,1,3,15-20,45,espalda_baja
+E065,Good morning,espalda,lumbar,avanzado,completo,2,4,10-12,75,espalda_baja
